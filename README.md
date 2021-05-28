@@ -1,2 +1,2 @@
-# spot_guild
+# SPOT Guild
 ZER01NE Spot Guild
